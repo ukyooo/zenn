@@ -6,11 +6,15 @@
 
 ```bash
 # 新しい記事を作成する
-zenn new:article
+npx zenn new:article
+```
 
+```bash
 # 新しい本を作成する
-zenn new:book
+npx zenn new:book
+```
 
+```bash
 # 表示をプレビューする
-zenn preview
+npx zenn preview
 ```
