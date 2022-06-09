@@ -2,7 +2,7 @@
 title: "MySQL JSON カラム内の配列に含まれる要素を検索する方法"
 emoji: "🎉"
 type: "tech"
-topics: ["JSON", "MySQL"]
+topics: ["JSON", "MySQL", "SQL"]
 published: true
 ---
 例えば、
