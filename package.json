@@ -1,23 +1,23 @@
 {
-  "name": "memo.ukyooo",
+  "name": "zenn.ukyooo",
   "version": "1.0.0",
-  "description": "Ukyoo!'s memo",
+  "description": "Ukyoo!'s Zenn",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ukyooo/memo.git"
+    "url": "git+https://github.com/ukyooo/zenn.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ukyooo/memo/issues"
+    "url": "https://github.com/ukyooo/zenn/issues"
   },
-  "homepage": "https://github.com/ukyooo/memo#readme",
+  "homepage": "https://github.com/ukyooo/zenn#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.111"
+    "zenn-cli": "^0.1.135"
   }
 }
